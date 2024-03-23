@@ -1,3 +1,3 @@
-[submodule "components/fvad/libfvad"]
-	path = components/fvad/libfvad
-	url = https://github.com/dpirch/libfvad.git
+[submodule "components/fvad"]
+	path = components/fvad
+	url = https://github.com/huxiangjs/libfvad-components-for-esp32c3.git

@@ -49,5 +49,11 @@ I (77199) libfvad: process_test:51:  +250ms
 
 ## How to use it in your project
 
-Just copy the components directory to your project
+```shell
+cd <your project>
+mkdir -p components
+cd components
+git clone --recursive https://github.com/huxiangjs/libfvad-components-for-esp32c3.git fvad
+
+```
 
