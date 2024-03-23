@@ -1,0 +1,3 @@
+[submodule "components/fvad/libfvad"]
+	path = components/fvad/libfvad
+	url = https://github.com/dpirch/libfvad.git
